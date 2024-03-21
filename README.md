@@ -29,7 +29,7 @@ Passionate about building scalable infrastructure, automating workflows, and imp
 I occasionally write articles on Medium about bugs in DevOps and cloud technologies.
 
 ### How to reach me:
-- [LinkedIn ](#https://www.linkedin.com/in/faridjosua/)
+- [LinkedIn](https://www.linkedin.com/in/faridjosua/)
 
 ### Certitications
 - Google Cloud Professional Cloud Architect 
